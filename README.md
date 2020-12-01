@@ -1,6 +1,6 @@
-### Hi there :wave:
+### You've landed on my GitHub profile!
 
-Who am I?
+So, who am I?
 * A **java** and **kotlin** developer with a soft spot for **rust**
 * A student at [KU Leuven](https://www.kuleuven.be/english/)
 * Someone eagerly contributing to open source, including big projects such as [intellij-rust](https://github.com/intellij-rust/intellij-rust)
