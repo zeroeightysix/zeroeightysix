@@ -6,8 +6,8 @@ Who am I?
 * Someone eagerly contributing to open source, including big projects such as [intellij-rust](https://github.com/intellij-rust/intellij-rust)
 
 You can contact me via
-* <img align="center" width="24px" height="24px" src="discord.png"> `086#2305`
-* Email: [`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
+* <img align="center" width="22px" height="22px" src="discord.png"> `086#2305`
+* ✉️ [`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
 
 <!--
 **zeroeightysix/zeroeightysix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
