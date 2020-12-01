@@ -7,7 +7,7 @@ Who am I?
 
 You can contact me via
 * <img align="center" width="22px" height="22px" src="discord.png"> `086#2305`
-* &nbsp;📫 [`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
+* &nbsp;📫&thinsp;&thinsp;[`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
 
 <!--
 **zeroeightysix/zeroeightysix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
