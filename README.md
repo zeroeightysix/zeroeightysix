@@ -6,7 +6,7 @@ Who am I?
 * Someone eagerly contributing to open source, including big projects such as [intellij-rust](https://github.com/intellij-rust/intellij-rust)
 
 You can contact me via
-* Discord: `086#2305`
+* <img align="center" width="24px" height="24px" src="discord.png"> `086#2305`
 * Email: [`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
 
 <!--
