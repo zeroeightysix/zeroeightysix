@@ -7,4 +7,4 @@ So, who am I?
 
 Have an enticing work offer that won't collide with my studies, or just want to say hi? Don't hesitate to **contact** me:
 * &nbsp;📫&thinsp;&thinsp;[`ridanvandenbergh@gmail.com`](mailto:ridanvandenbergh@gmail.com)
-* <img align="center" width="22px" height="22px" src="discord.png" alt="Discord"> `086#2305`
+* <img align="center" width="22px" height="22px" src="discord.png" alt="Discord"> `zeroeightsix`
